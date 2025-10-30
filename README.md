@@ -64,6 +64,7 @@ If everything went correctly open a new terminal and run the following commands 
 ## Dataset
 
 * **Source:** [Download or import the Dataset from Google Drive](https://drive.google.com/drive/folders/1H4DaaJjEEDJLMJAp-eZmrnKTxs5B4In9).
+  Please note that we only need the train and test folders from the extracted initial zipped file
 * **Structure:**:
     ```
   └── initial/
