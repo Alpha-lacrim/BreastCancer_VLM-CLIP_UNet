@@ -1,4 +1,4 @@
-# Breast Cancer Detection and Segmentation: High-Performance Framework
+# Olympic Of Technology: Breast Cancer Detection and Segmentation
 
 **Best Performance and Accuracy on Question 1 (Image Processing) of the Olympic of Technology Contest**
 
@@ -30,6 +30,7 @@ Follow these steps to set up the environment and run the models on your local ma
 * Git
 
 ### Installation
+
 First of all before you start using CLIP, you'll need to set it up properly. to do that please follow these steps:
 1. **Clone the CLIP repository:**
     ```bash
@@ -65,6 +66,7 @@ If everything went correctly open a new terminal and run the following commands 
 
 * **Source:** [Download or import the Dataset from Google Drive](https://drive.google.com/drive/folders/1H4DaaJjEEDJLMJAp-eZmrnKTxs5B4In9).
 * Please note that we only need the train and test folders from the extracted initial zipped file.
+* Make sure that train, test, and this notebook are in the same directory.
 * **Structure:**:
     ```
   └── initial/
