@@ -45,7 +45,7 @@ First of all before you start using CLIP, you'll need to set it up properly. to 
      
     Now for confirming the installation run the following cmd:
     ```bash
-        python -c "import clip; print('CLIP is installed!')"
+    python -c "import clip; print('CLIP is installed!')"
     ```
 
 
