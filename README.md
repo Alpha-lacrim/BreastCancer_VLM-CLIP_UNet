@@ -39,13 +39,13 @@ First of all before you start using CLIP, you'll need to set it up properly. to 
     ```
     
 2. **Install CLIP's required packages**
-     ```bash
-    pip install -r requirements.txt
-    ```
+   ```bash
+   pip install -r requirements.txt
+   ```
      
-Now for confirming the installation run the following cmd:
-    ```bash 
-    python -c "import clip; print('CLIP is installed!')"
+    Now for confirming the installation run the following cmd:
+    ```bash
+        python -c "import clip; print('CLIP is installed!')"
     ```
 
 
