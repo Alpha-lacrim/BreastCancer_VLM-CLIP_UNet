@@ -92,3 +92,40 @@ If everything went correctly open a new terminal and run the following commands 
     └── notebook.ipynb (We don't need this!)
     ```
 
+
+## Sample Output of the code for the test dataset:
+### Image Comparison
+
+<table>
+  <tr>
+    <th>Input Image</th>
+    <th>Output Image</th>
+    <th>Label</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/e8baee73-ba16-40bd-87bb-d57d94a51f12"></td>
+    <td><img src="https://github.com/user-attachments/assets/96a9bad9-08ad-4c71-b912-732e88673887"></td>
+    <td>Benign</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/19aee29c-f264-4c23-89c3-0918a37d2e48"></td>
+    <td><img src="https://github.com/user-attachments/assets/baaf5431-866a-485a-bb2f-e0e150ec5d94"></td>
+    <td>malignant</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/649aabb7-1b7a-4580-9fd2-09322c224df8"></td>
+    <td><img src="https://github.com/user-attachments/assets/4525ff67-6181-4550-bfe3-32b8720fb05e"></td>
+    <td>Normal</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/2873ff86-c961-4fa8-bcbe-0986a40bf19e"></td>
+    <td><img src="https://github.com/user-attachments/assets/a01dfee9-55a3-44ef-ab18-dc72b3631106"></td>
+    <td>Benign</td>
+  </tr>
+  <tr>
+ <td><img src="https://github.com/user-attachments/assets/e45b765f-cd70-42ed-b6cf-de449ef42af4"></td>
+    <td><img src="https://github.com/user-attachments/assets/3e812cb6-fc03-4027-b325-3d8c757846a5"></td>
+    <td>malignant</td>
+  </tr>
+</table>
+
