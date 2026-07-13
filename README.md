@@ -91,7 +91,19 @@ If everything went correctly open a new terminal and run the following commands 
     │   
     └── notebook.ipynb (We don't need this!)
     ```
-
+    
+* **Architecture:**:
+```
+Input Image
+      ↓
+    CLIP
+      ↓
+Cancer Detection
+      ↓
+    U-Net
+      ↓
+Tumor Segmentation
+```
 
 ## Sample Output of the code for the test dataset:
 ### Image Comparison
